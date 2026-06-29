@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0050/krp/v1/juan/6
+seq: 6
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0050_WYG_006-1a, image: missing/missing}
+body:
+  text: 陜西通志卷六疆域一省府州縣圖天府名邦幅員式廓冀豫荆梁壤連繡錯屏衞中原隔閡沙漠近服遵循逺疆啟拓聚米布碁井里城郭支祈効摉章亥奮蹻四塞雄圖西陲鎖鑰大化覃敷帡幪永託作疆域志第三上㳺為鳳翔謹按西安面臨終南背據涇渭其西自隴坻踞汧渭其西北介梁岐涇渭之間為乾左阻石門踞涇上㳺為邠其北界秦山跨漆沮者為耀自子午嶺東跨洛為鄜又北界横山東瀕河為延安自横山北接套地為榆林其東北界梁山控帶河洛為同又循河而北為綏德又東北抵套為葭其西南自嶓冡至太白之陽跨漢為漢中其南居終南之陽為興安其東自秦嶺至于太華在嶽之隂為華其東南在嶽之陽為商此陜東疆域之大凡也陜西通志卷六
+  hash: sha256:405ea3e5fca48b003a2afab546d773d0bf1e2cdf281e4092ca457a776d86fd3f
+metadata:
+  title: 陝西通志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:42:38.517373'
+  juan_title: 卷六
+  source:
+    repository: kanripo
+    path: KR2k0050/KR2k0050_006.txt
+hash: sha256:ef85371b641a6decbb69759963e6a3b17d8dabf5d0f3c9c0b9938b50772652ca

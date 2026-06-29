@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0050/WYG/v1/juan/19
+seq: 19
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0050_WYG_019-1a, image: WYG0552/WYG0552-0042a.png}
+body:
+  text: 陜西通志巻十九封爵二北周後梁後唐後晉後周宋按賈志有岐王徳芳考宋史本傳岐王係太平興國六年追封故不録又載允升子華隂侯宗秀考文獻通考亦云但據宋史延安郡公允升子十三人有華隂侯宗本並無宗秀疑秀即本字之訛賈志從通考誤入今為訂正金元按賈志有鄜王懿憐只班考鄜王後立為帝廟號寧宗不應入封爵内再西安王阿忒納答失里綏寧王阿都赤元時陜省無此地名概從删明始建世系國除境土按賈志肅莊王楧慶靖王梅韓憲王松子孫封號多有陜省地名但考當時府第俱在甘省猶秦愍王子孫爵命多有各縣地名而府第俱在西安也故不録又續文獻通考有安定伯張容太監永弟正徳中封考陜西延鞏二府皆有安定未知確在何境附識於此陜西通志巻十九
+  hash: sha256:f2faf91f45de028d0fd9ed29624ef399fd86615b5a147d06d5731330fb9e0675
+metadata:
+  title: 陝西通志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:42:38.517373'
+  juan_title: 卷十九
+  source:
+    repository: kanripo
+    path: KR2k0050/KR2k0050_019.txt
+hash: sha256:19a3975c53da5be95e205fdc0bc3ef2d0b73ffab843d9334689b8980bedfc3da

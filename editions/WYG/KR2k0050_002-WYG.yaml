@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0050/WYG/v1/juan/2
+seq: 2
+front:
+  text: 欽定四庫全書陜西通志巻二
+  hash: sha256:7dcc987f2b7d9a0a5516c77b3c0cbc951c16ea1d02a9aa47cd4aca794930ec78
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0050_WYG_002-1a, image: WYG0551/WYG0551-0039a.png}
+body:
+  text: 建置圖表秦中為周秦漢西魏北周隋唐歴代都㑹其地北暨朔方南環漢沔西抵隴坂東界潼津幅員廣袤數千里自肇州以來爲國邑爲郡縣為道府路爲軍衛所制以代異名以時更紛如繡錯今自夏商以降各繪一圖使廢置分合星羅碁布明於指掌以象告也至圖不盡意又綴以兩表或臚列一代之郡縣使大小相維以為之緯或貫穿累代之沿革使先後相承以為之經一縱一横參伍錯綜又慮其説無徴復原本經史博採志乘一遵本朝府州縣定制遡夏商以逮元明代立一考以與圖表互相發明雖蜀漢魏周地志闕如亦必㑹萃衆説捃摭遺文以存一代之概庶幾古今建置囊括靡遺矣本朝省府州縣統屬考夏商州國邑考周州國邑考秦郡縣考兩漢部郡縣統屬考總部郡縣魏晉州郡縣統屬考北魏州郡縣統屬考西魏州郡縣統屬考總部郡縣總部郡縣北周州郡縣統屬考陜西通志巻二
+  hash: sha256:90d015647deaa9e91ca6d037a89051e05593eabdf52f1b5fc481f33a2b3d0181
+metadata:
+  title: 陝西通志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:42:38.517373'
+  juan_title: 卷二
+  source:
+    repository: kanripo
+    path: KR2k0050/KR2k0050_002.txt
+hash: sha256:bc52e7bbae14f3c3d2a5e14f59a7e89341949893f8586da9ff4b1808db11a76d
