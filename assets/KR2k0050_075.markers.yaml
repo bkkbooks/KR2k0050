@@ -12002,6 +12002,7 @@ markers:
   - {type: substitution, offset: 25790, original: 寛, replacement: 寬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20767}}
   - {type: substitution, offset: 25793, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: punctuation, offset: 25794, content: (, id: KR2k0050_krp_075-bkkpn2305}
+  - {type: 'voice:problem', offset: 25794, length: 7, id: KR2k0050_bkk_075-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 25794, got ''('' at offset 25801'}
   - {type: punctuation, offset: 25798, content: /, id: KR2k0050_krp_075-bkkpn2306}
   - {type: 'kr:non-cjk', offset: 25799, content: '[', id: KR2k0050_krp_075-bkkkrnonc10}
   - {type: variant, offset: 25799, length: 4, content: 桌日人人, WYG: 􅕬}
@@ -16110,4 +16111,4 @@ markers:
 
       ', id: KR2k0050_krp_075-bkkkrnewl2357}
   back: []
-hash: sha256:1c407cbcbbb318dcfe7377a395a1c98278c7af2b72e065d565f8b3c6bff6124f
+hash: sha256:130d6381d212eb8ac7c7fa1dc35b00c863a71aaf84b003936127c447220471b4
